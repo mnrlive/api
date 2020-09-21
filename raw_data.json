@@ -1,5 +1,5 @@
 {
-	"raw_data": [
+	"faq": [
 		{
 			"answer": "https://www.news18.com/news/india/coronavirus-vaccine-tracker-live-white-house-sets-late-october-target-sanofi-glaxosmithkline-start-clinical-trials-2847841.html",
 			"date": "September 4, 2020 at 11:49PM",
@@ -354,7 +354,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9XzFZY2ZjdkdPVknSAQA?oc=5",
 			"date": "September 5, 2020 at 03:36PM",
 			"description": "",
-			"image": "",
+			"image": "https://i.ytimg.com/vi/_1YcfcvGOVI/maxresdefault.jpg",
 			"question": "India is reporting world's highest single day spike in cases | Coronavirus | World News - WION"
 		},
 		{
@@ -774,7 +774,7 @@
 			"answer": "https://www.dw.com/en/coronavirus-germany-gives-india-millions-in-aid-thousands-of-testing-kits/a-54828976",
 			"date": "September 6, 2020 at 12:36PM",
 			"description": "German Development Minister Gerd Müller on Sunday said Germany is significantly expanding its aid program in India where coronavirus cases are soaring rapidly .…",
-			"image": "",
+			"image": "https://www.dw.com/image/54772768_304.jpg",
 			"question": "Coronavirus Germany gives India millions in aid, thousands of testing kits - DW (English)"
 		},
 		{
@@ -1264,7 +1264,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aHdvUHY1aXZ5N1nSAQA?oc=5",
 			"date": "September 10, 2020 at 07:35PM",
 			"description": "",
-			"image": "https://i.ytimg.com/vi/hwoPv5ivy7Y/maxresdefault.jpg",
+			"image": "",
 			"question": "WION Dispatch India cautiously studying Russian proposal for COVID-19 vaccine - WION"
 		},
 		{
@@ -2146,7 +2146,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dkktcjF0OXg3VE3SAQA?oc=5",
 			"date": "September 12, 2020 at 12:35PM",
 			"description": "",
-			"image": "https://i.ytimg.com/vi/vI-r1t9x7TM/maxresdefault.jpg",
+			"image": "",
 			"question": "Coronavirus Vaccine Update Animal Trials Of Covaxin Successful | Breaking News - India Today"
 		},
 		{
@@ -4561,7 +4561,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bGRuZ1ltdWRJVjjSAQA?oc=5",
 			"date": "September 16, 2020 at 08:35PM",
 			"description": "",
-			"image": "",
+			"image": "https://i.ytimg.com/vi/ldngYmudIV8/maxresdefault.jpg",
 			"question": "Covid-19 Latest Update Coronavirus Cases In India Crosses 5 Million-Mark - India Today"
 		},
 		{
