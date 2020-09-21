@@ -29,3 +29,5 @@
 👋 [BEIN](http://66.northerniptv.ca:8000/golden123/golden123/74478)
 
 👋 [STAR SPORTS HINDI](http://66.northerniptv.ca:8000/golden123/golden123/201)
+
+👋 [Sky Sports Cricket ](http://66.northerniptv.ca:8000/golden123/golden123/205)
