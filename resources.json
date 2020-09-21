@@ -375,7 +375,7 @@
 			"answer": "https://timesofindia.indiatimes.com/city/delhi/judge-tests-covid-positive-in-delhi/articleshow/77944430.cms",
 			"date": "September 5, 2020 at 03:36PM",
 			"description": "Judge tests Covid positive in Delhi News City News delhi News Judge tests Covid positive in Delhi Judge tests Covid positive in Delhi Facebook Twitter Linkedin…",
-			"image": "https://static.toiimg.com/thumb/msid-77944483,width-1070,height-580,imgsize-190621,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"image": "",
 			"question": "Judge tests Covid positive in Delhi - Times of India"
 		},
 		{
@@ -473,7 +473,7 @@
 			"answer": "https://www.livemint.com/news/india/keep-covid-19-mortality-below-1-centre-tells-three-states-11599305746053.html",
 			"date": "September 5, 2020 at 08:36PM",
 			"description": "\"The Health Ministry has been regularly engaging with States and UTs that have been exhibiting either a sudden surge in COVID cases, high caseload or reporting…",
-			"image": "https://images.livemint.com/img/2020/09/05/600x338/2020-09-05T110244Z_968657144_RC2BSI9PCP0Q_RTRMADP_3_HEALTH-CORONAVIRUS-INDIA-CASES_1599306647574_1599306706993.JPG",
+			"image": "",
 			"question": "Keep Covid-19 mortality below 1% Centre tells three states - Mint"
 		},
 		{
@@ -599,14 +599,14 @@
 			"answer": "https://www.ndtv.com/business/adani-takes-control-of-mumbai-airport-no-mention-of-covid-19-impact-2289410",
 			"date": "September 6, 2020 at 07:36AM",
 			"description": "Adani Airports has bought majority stakes in Mumbai International Airport Adani Enterprises says it is well placed to build the infrastructure needed to support…",
-			"image": "https://c.ndtvimg.com/2019-07/846n6bbg_gautam-adani-bloomberg-650_625x300_11_July_19.jpg",
+			"image": "",
 			"question": "Adani Takes Control Of Mumbai Airport, No Mention Of COVID-19 Impact - NDTV Profit"
 		},
 		{
 			"answer": "https://theprint.in/opinion/indian-economy-is-heading-for-a-k-shaped-recovery-and-it-wont-be-a-pretty-sight/496170/",
 			"date": "September 6, 2020 at 07:36AM",
 			"description": "Illustration by Ramandeep Kaur | ThePrint Text Size: A midst the flood of commentary that followed the finding that the world’s fastest-growing large economy…",
-			"image": "",
+			"image": "#REF!",
 			"question": "Indian economy is heading for a K-shaped recovery and it won’t be a pretty sight - ThePrint"
 		},
 		{
@@ -739,7 +739,7 @@
 			"answer": "https://indianexpress.com/article/opinion/columns/india-economy-slowdown-act-of-god-p-chidambaram-6584615/",
 			"date": "September 6, 2020 at 11:37AM",
 			"description": "Written by P Chidambaram | September 6, 2020 4:00:13 am Union Minister of Finance and Corporate Affairs, Nirmala Sitharaman announced in the fourth edition of…",
-			"image": "https://images.indianexpress.com/2020/09/P-Chidambaram.jpg",
+			"image": "",
 			"question": "The worst affected economy - The Indian Express"
 		},
 		{
@@ -788,7 +788,7 @@
 			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-september-6-2020-live-updates/article32534295.ece",
 			"date": "September 6, 2020 at 12:37PM",
 			"description": "India overtook Brazil to become the country with the second highest number of COVID-19 cases in the world. India overtook Brazil to become the country with the…",
-			"image": "",
+			"image": "https://www.thehindu.com/news/cities/chennai/ab13g2/article32534764.ece/ALTERNATES/LANDSCAPE_615/Kasimedu-fish-market-chennai-covid",
 			"question": "Coronavirus India lockdown Day 165 updates | Women participation in equity market grows during the pandemic - The Hindu"
 		},
 		{
@@ -1054,7 +1054,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NGtZQklzd3pUc1XSAQA?oc=5",
 			"date": "September 7, 2020 at 03:37AM",
 			"description": "",
-			"image": "",
+			"image": "https://i.ytimg.com/vi/4kYBIswzTsU/maxresdefault.jpg",
 			"question": "Widespread use of Covid-19 vaccine not expected until mid-2021 - The Star"
 		},
 		{
@@ -1138,7 +1138,7 @@
 			"answer": "https://indianexpress.com/article/opinion/columns/india-economy-slowdown-act-of-god-p-chidambaram-6584615/",
 			"date": "September 7, 2020 at 02:37AM",
 			"description": "Written by P Chidambaram | Updated: September 6, 2020 2:04:26 pm Finance Minister Nirmala Sitharaman at the fourth edition of Business Reform Action Plan.…",
-			"image": "https://images.indianexpress.com/2020/09/P-Chidambaram.jpg",
+			"image": "",
 			"question": "The worst affected economy - The Indian Express"
 		},
 		{
@@ -1159,7 +1159,7 @@
 			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-september-6-2020-live-updates/article32534295.ece",
 			"date": "September 7, 2020 at 07:37PM",
 			"description": "India overtook Brazil to become the country with the second highest number of COVID-19 cases in the world. India overtook Brazil to become the country with the…",
-			"image": "",
+			"image": "https://www.thehindu.com/news/cities/chennai/ab13g2/article32534764.ece/ALTERNATES/LANDSCAPE_615/Kasimedu-fish-market-chennai-covid",
 			"question": "Coronavirus India lockdown Day 165 updates | September 6, 2020 - The Hindu"
 		},
 		{
@@ -1530,7 +1530,7 @@
 			"answer": "https://scroll.in/latest/972798/coronavirus-oxford-vaccine-trials-pause-should-be-a-wake-up-call-says-who-scientist",
 			"date": "September 11, 2020 at 11:36AM",
 			"description": "",
-			"image": "",
+			"image": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/144150-ylzexrljlb-1594350017.jpg",
 			"question": "Coronavirus India records another daily high with 96,550 new cases, tally crosses 45.6 lakh - Scroll.in"
 		},
 		{
@@ -2034,7 +2034,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Y0pQbEJQUmJrc03SAQA?oc=5",
 			"date": "September 12, 2020 at 09:35AM",
 			"description": "",
-			"image": "",
+			"image": "https://i.ytimg.com/vi/cJPlBPRbksM/maxresdefault.jpg",
 			"question": "Coronavirus Cases Crosses 45 Lakh Mark; Total Cases At 45,62414 With 76, 271 Deaths - India Today"
 		},
 		{
@@ -2790,7 +2790,7 @@
 			"answer": "https://indianexpress.com/article/india/parliament-monsoon-session-to-begin-tomorrow-heres-all-that-we-know-6594462/",
 			"date": "September 13, 2020 at 07:35PM",
 			"description": "By: Express Web Desk | New Delhi | Updated: September 13, 2020 6:47:51 pm The Monsoon Session of the Parliament will begin from Monday. (Express Photo: Renuka…",
-			"image": "",
+			"image": "https://images.indianexpress.com/2020/09/parliament-2.jpg",
 			"question": "Amid Covid, Parliament session tomorrow; Oppn seeks to corner govt over economy, border row - The Indian Express"
 		},
 		{
@@ -2944,7 +2944,7 @@
 			"answer": "https://indianexpress.com/article/cities/delhi/in-one-week-active-covid-19-cases-in-delhi-up-by-38-per-cent-6594924/",
 			"date": "September 14, 2020 at 03:35AM",
 			"description": "Written by Astha Saxena | New Delhi | September 14, 2020 2:25:17 am On Sunday, Delhi saw 4,235 new cases and 29 fatalities, taking the total cases to 2,18,304…",
-			"image": "",
+			"image": "https://images.indianexpress.com/2020/09/Coronavirus-3.jpg",
 			"question": "In one week, active Covid-19 cases in Delhi up by 38 per cent - The Indian Express"
 		},
 		{
@@ -3413,7 +3413,7 @@
 			"answer": "https://www.nyoooz.com/news/delhi/1513538/delhi-deputy-chief-minister-manish-sisodia-tests-positive-for-covid19/",
 			"date": "September 14, 2020 at 09:35PM",
 			"description": "",
-			"image": "",
+			"image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/14/925059-908831-sisodia-manish.jpg",
 			"question": "Delhi Deputy Chief Minister Manish Sisodia tests positive for COVID-19 | Delhi NYOOOZ - NYOOOZ"
 		},
 		{
@@ -3525,7 +3525,7 @@
 			"answer": "https://indianexpress.com/article/india/parliament-monsoon-session-to-begin-tomorrow-heres-all-that-we-know-6594462/",
 			"date": "September 14, 2020 at 07:35PM",
 			"description": "By: Express Web Desk | New Delhi | Updated: September 13, 2020 6:47:51 pm The Monsoon Session of the Parliament will begin from Monday. (Express Photo: Renuka…",
-			"image": "",
+			"image": "https://images.indianexpress.com/2020/09/parliament-2.jpg",
 			"question": "Amid Covid, Parliament session tomorrow; Oppn seeks to corner govt over economy, border row - The Indian Express"
 		},
 		{
@@ -4113,7 +4113,7 @@
 			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RzhBZG5RcUV2Y0HSAQA?oc=5",
 			"date": "September 16, 2020 at 01:35AM",
 			"description": "",
-			"image": "",
+			"image": "https://i.ytimg.com/vi/G8AdnQqEvcA/maxresdefault.jpg",
 			"question": "Tracking COVID-19 vaccine | China's phase 3 vaccine proceedings going smooth - WION"
 		},
 		{
@@ -4456,7 +4456,7 @@
 			"answer": "https://www.moneycontrol.com/news/politics/delhi-bjp-president-adesh-gupta-tests-positive-for-covid-19-5847091.html",
 			"date": "September 16, 2020 at 04:36PM",
 			"description": "Delhi BJP president Adesh Gupta on Wednesday said he has tested positive for COVID-19. \"Last week, I took a COVID test after having light fever. Its report was…",
-			"image": "",
+			"image": "https://images.moneycontrol.com/static-mcnews/2020/06/New-Delhi-BJP-Chief-Adesh-Kumar-Gupta-770x433.jpg",
 			"question": "Delhi BJP president Adesh Gupta tests positive for COVID-19 - Moneycontrol"
 		},
 		{
@@ -5702,7 +5702,7 @@
 			"answer": "https://www.news18.com/news/world/australia-covid-19-hotspot-records-fewest-cases-since-june-2889841.html",
 			"date": "September 19, 2020 at 08:35AM",
 			"description": "SYDNEY: The Australian state at the centre of the country’s coronavirus outbreak on Saturday reported its lowest daily increase of infections in three months,…",
-			"image": "https://images.news18.com/ibnlive/uploads/2020/09/1600485808_2020-09-19t021810z_1_lynxmpeg8i03n_rtroptp_4_health-coronavirus-australia.jpg",
+			"image": "",
 			"question": "Australia COVID-19 Hotspot Records Fewest Cases Since June - News18"
 		},
 		{
