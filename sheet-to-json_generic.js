@@ -32,6 +32,14 @@ const c = require("./lib/constants");
     },
     file: c.FILE_WEBSITE_DATA
   });
+  
+  await task({
+    sheet: c.SHEET,
+    tabs: {
+      faq: c.SHEET_IPTV
+    },
+    file: c.FILE_WEBSITE_IPTV
+  });
   await task({
     sheet: c.SHEET,
     tabs: {
