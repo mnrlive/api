@@ -7,7 +7,7 @@ const c = require("./lib/constants");
   await task({
     sheet: c.SHEET,
     tabs: {
-      faq: c.SHEET_RAW_DATA
+      item: c.SHEET_RAW_DATA
     },
     file: c.FILE_RAW_DATA
   });
