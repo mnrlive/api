@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 recoveries in Maharashtra\n",
-    "timestamp": 1586196347
-  },
-  {
     "update": "7 recoveries in Ladakh\n",
     "timestamp": 1586197495
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Punjab\n",
     "timestamp": 1586342679
+  },
+  {
+    "update": "683 new cases, 109 recoveries and 61 deaths in Maharashtra\n279 new cases, 25 recoveries and 3 deaths in Tamil Nadu\n493 new cases, 7 recoveries and 10 deaths in Delhi\n83 new cases and 1 death in Telangana\n315 new cases, 91 recoveries and 1 death in Rajasthan\n38 new cases and 72 recoveries in Kerala\n120 new cases, 24 recoveries and 2 deaths in Uttar Pradesh\n76 new cases, 4 recoveries and 3 deaths in Andhra Pradesh\n161 new cases, 18 recoveries and 18 deaths in Madhya Pradesh\n34 new cases, 11 recoveries and 1 death in Karnataka\n289 new cases, 19 recoveries and 6 deaths in Gujarat\n24 new cases and 5 recoveries in Haryana\n99 new cases, 2 recoveries and 1 death in Jammu and Kashmir\n57 new cases, 6 recoveries and 4 deaths in Punjab\n27 new cases and 3 recoveries in West Bengal\n8 new cases and 10 recoveries in Odisha\n23 new cases in Bihar\n3 new cases and 1 recovery in Uttarakhand\n1 new case and 1 death in Assam\n1 new case in Chandigarh\n5 new cases and 5 recoveries in Himachal Pradesh\n1 new case and 1 recovery in Ladakh\n10 recoveries in Andaman and Nicobar Islands\n8 new cases in Chhattisgarh\n1 recovery in Goa\n2 new cases in Puducherry\n13 new cases and 1 death in Jharkhand\n1 new case in Tripura\n",
+    "timestamp": 1600682073
   }
 ]
