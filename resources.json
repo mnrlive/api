@@ -1,5 +1,5 @@
 {
-	"faq": [
+	"item": [
 		{
 			"answer": "https://www.news18.com/news/india/coronavirus-vaccine-tracker-live-white-house-sets-late-october-target-sanofi-glaxosmithkline-start-clinical-trials-2847841.html",
 			"date": "September 4, 2020 at 11:49PM",
@@ -1628,7 +1628,7 @@
 			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-september-11-2020-live-updates/article32578190.ece",
 			"date": "September 11, 2020 at 01:35PM",
 			"description": "Worldwide coronavirus cases has crossed 2.8 crore while the death toll is over 904,000. Worldwide coronavirus cases has crossed 2.8 crore while the death toll…",
-			"image": "",
+			"image": "https://www.thehindu.com/news/national/534z8r/article32580184.ece/ALTERNATES/LANDSCAPE_615/India-Covid19jpg",
 			"question": "Coronavirus India lockdown Day 170 live updates | Premature baby weighing just 1.3 kg beats virus after 30-day fight - The Hindu"
 		},
 		{
@@ -2244,7 +2244,7 @@
 			"answer": "https://timesofindia.indiatimes.com/tv/news/hindi/himani-shivpuri-tests-positive-for-covid-19/articleshow/78073236.cms",
 			"date": "September 12, 2020 at 04:36PM",
 			"description": "Now playing Thanks For Rating Reminder Successfully Set! Next Story: Zain Imam tests negative for COVID-19 Himani Shivpuri tests positive for COVID-19 Zain Imam…",
-			"image": "https://static.toiimg.com/thumb/msid-78073225,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-133150/78073225.jpg",
+			"image": "",
 			"question": "Himani Shivpuri tests positive for COVID-19 - Times of India"
 		},
 		{
@@ -4792,7 +4792,7 @@
 			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-september-17-2020-live-updates/article32626406.ece",
 			"date": "September 17, 2020 at 12:35PM",
 			"description": "Testing rises in A.P. as trend of lower infection rate holds; over 9,700 test positive in Karnataka; Telangana adds 2,273 cases Testing rises in A.P. as trend…",
-			"image": "",
+			"image": "https://www.thehindu.com/news/national/other-states/dmpqbs/article32380528.ece/ALTERNATES/LANDSCAPE_615/TRIBAL",
 			"question": "Coronavirus India lockdown Day 176 live updates | Union Culture Minister Prahlad Singh Patel tests positive - thehindu.com"
 		},
 		{
