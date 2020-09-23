@@ -4,8 +4,7 @@
 
 [SKY SPORTS CRICKET HD UK](http://mlsh1.com:2086/iptvreal/55225/129)👋👋
 
-[Star Sports 1 HD](http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/10
-)👋👋
+[Star Sports 1](http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?@IPTVSoltuion)👋👋
 
 [Star Sports 1 Hindi HD](http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7)👋👋
 
