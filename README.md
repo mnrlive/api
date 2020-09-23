@@ -4,7 +4,7 @@
 
 [SKY SPORTS CRICKET HD UK](http://mlsh1.com:2086/iptvreal/55225/129)👋👋
 
-[Star Sports 1](http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8?@IPTVSoltuion)👋👋
+[Star Sports 1](http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8)👋👋
 
 [Star Sports 1 Hindi HD](http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7)👋👋
 
@@ -13,9 +13,7 @@
 
 👋👋 [Star Sports HD](http://66.northerniptv.ca:8000/live/george/george123/201.m3u8)
 
-👋👋  [Sky Sports Cricket HD](http://66.northerniptv.ca:8000/live/george/george123/205.m3u8)
-
-👋 👋[Sky Sports Cricket HD](http://66.northerniptv.ca:8000/golden123/golden123/205)
+👋👋[Sky Sports Cricket HD](http://66.northerniptv.ca:8000/golden123/golden123/205)
 
 👋👋 [Sky Sports Cricket 4k](https://bit.ly/32LbYVT)
  
@@ -31,6 +29,3 @@
 
 👋 [S Cricket](http://f.ok2.se:8000/victor1/victor123/81947)
 
-👋 [STAR SPORTS HINDI](http://66.northerniptv.ca:8000/golden123/golden123/201)
-
-👋👋 [Sky Sports Cricket ](http://66.northerniptv.ca:8000/golden123/golden123/205)
