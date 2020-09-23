@@ -29,3 +29,16 @@
 
 👋 [S Cricket](http://f.ok2.se:8000/victor1/victor123/81947)
 
+
+[Star Sports 1 HD Hindi 1](https://watchindia.net:8443/live/37007/46430/1072.m3u8)👋👋
+
+[Star Sports 1 HD Hindi 2](https://watchindia.net:8443/live/37007/46430/2167.m3u8)👋👋
+
+[Star Sports 1 HD](https://watchindia.net:8443/live/37007/46430/808.m3u8)👋👋
+
+[Star Sports 1 HD 2](https://watchindia.net:8443/live/37007/46430/2162.m3u8)👋👋
+
+[Star Sports Select 1 HD](https://watchindia.net:8443/live/37007/46430/1070.m3u8)👋👋
+
+[Star Sports 1 HD Hindi 1]()👋👋
+
