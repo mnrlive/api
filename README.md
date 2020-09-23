@@ -40,5 +40,5 @@
 
 [Star Sports Select 1 HD](https://watchindia.net:8443/live/37007/46430/1070.m3u8)👋👋
 
-[Star Sports 1 HD Hindi 1]()👋👋
+[Star Sports 2 HD](https://watchindia.net:8443/live/37007/46430/1069.m3u8)👋👋
 
