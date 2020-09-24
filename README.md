@@ -10,7 +10,7 @@
 
 [Star Sports 1 Hindi HD](http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7)👋 👋
 
-👋 👋 [Star Sports HD](http://66.northerniptv.ca:8000/live/george/george123/201.m3u8)
+👋 👋 [Star Sports HD](http://66.northerniptv.ca:8000/live/george/george123/201)
 
 👋👋[Sky Sports Cricket](http://66.northerniptv.ca:8000/golden123/golden123/205)
  
@@ -18,11 +18,14 @@
 
 👋 [SKY SPORTS CRICKET](http://f.ok2.se:8000/victor1/victor123/205)
 
-👋👋 [STAR SPORTS HINDI](http://66.northerniptv.ca:8000/golden123/golden123/201)
+👋👋 [STAR SPORTS HINDI ](http://66.northerniptv.ca:8000/golden123/golden123/201)
 
 👋 👋 [S Cricket](http://66.northerniptv.ca:8000/golden123/golden123/81947)
 
 [S Cricket](http://f.ok2.se:8000/victor1/victor123/81947) 🚀🚀
 
-[BEIN](http://66.northerniptv.ca:8000/golden123/golden123/74478)🚀🚀
+[BEIN HD 13 🚀🚀](http://66.northerniptv.ca:8000/golden123/golden123/74478)
+
+👋👋 [STAR SPORTS HINDI 640x360 ](http://66.northerniptv.ca:8000/golden123/golden123/202)
+
 
