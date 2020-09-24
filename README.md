@@ -2,7 +2,9 @@
   
 ## Mama
 
-[SKY SPORTS CRICKET HD UK](http://mlsh1.com:2086/iptvreal/55225/129)👋🚀🚀👋
+[SKY SPORTS CRICKET HD UK 👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/129)
+
+[SKY SPORTS CRICKET SD UK 👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/136)
 
 [Star Sports 1](http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8)👋 👋
 
