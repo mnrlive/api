@@ -473,7 +473,7 @@
 			"answer": "https://www.livemint.com/news/india/keep-covid-19-mortality-below-1-centre-tells-three-states-11599305746053.html",
 			"category": "",
 			"date": "September 5, 2020 at 08:36PM",
-			"image": "",
+			"image": "https://images.livemint.com/img/2020/09/05/600x338/2020-09-05T110244Z_968657144_RC2BSI9PCP0Q_RTRMADP_3_HEALTH-CORONAVIRUS-INDIA-CASES_1599306647574_1599306706993.JPG",
 			"question": "Keep Covid-19 mortality below 1% Centre tells three states - Mint"
 		},
 		{
@@ -543,7 +543,7 @@
 			"answer": "https://www.ndtv.com/india-news/pre-flight-alcohol-test-for-pilots-crew-to-be-resumed-aviation-watchdog-2290985",
 			"category": "",
 			"date": "September 6, 2020 at 01:36AM",
-			"image": "",
+			"image": "https://c.ndtvimg.com/2020-03/7p3ui1c_aeroplane-generic-afp_625x300_27_March_20.jpg",
 			"question": "Pre-Flight Alcohol Test For Pilots, Cabin Crew To Be Resumed Aviation Watchdog - NDTV"
 		},
 		{
@@ -2216,7 +2216,7 @@
 			"answer": "https://www.ndtv.com/india-news/sachin-pilot-backs-rahul-gandhi-as-he-slams-modi-government-over-economy-2294329",
 			"category": "",
 			"date": "September 12, 2020 at 03:35PM",
-			"image": "https://c.ndtvimg.com/2020-07/jul1sqb8_sachin-pilot_650x400_13_July_20.jpg",
+			"image": "",
 			"question": "Sachin Pilot Backs Rahul Gandhi As He Slams Modi Government Over Economy - NDTV"
 		},
 		{
@@ -2545,7 +2545,7 @@
 			"answer": "https://timesofindia.indiatimes.com/city/delhi/with-4321-cases-city-sees-its-highest-jump/articleshow/78084150.cms",
 			"category": "",
 			"date": "September 13, 2020 at 08:35AM",
-			"image": "https://static.toiimg.com/thumb/msid-78084553,width-1070,height-580,imgsize-687461,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+			"image": "",
 			"question": "With 4,321 Covid cases, Delhi sees its highest jump - Times of India"
 		},
 		{
@@ -2958,14 +2958,14 @@
 			"answer": "https://www.ndtv.com/india-news/sachin-pilot-backs-rahul-gandhi-as-he-slams-modi-government-over-economy-2294329",
 			"category": "",
 			"date": "September 13, 2020 at 11:36AM",
-			"image": "https://c.ndtvimg.com/2020-07/jul1sqb8_sachin-pilot_650x400_13_July_20.jpg",
+			"image": "",
 			"question": "Sachin Pilot Backs Rahul Gandhi As He Slams Modi Government Over Economy - NDTV"
 		},
 		{
 			"answer": "https://www.hindustantimes.com/india-news/covid-19-what-you-need-to-know-today/story-hvYSr0gUKjlx1Vi9676GmM.html",
 			"category": "",
 			"date": "September 14, 2020 at 06:35AM",
-			"image": "",
+			"image": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/14/Pictures/noida-coronavirus-testing_6e9f07a4-f604-11ea-ac5c-9be95d2c150f.jpg",
 			"question": "Covid-19 What you need to know today - Hindustan Times"
 		},
 		{
@@ -4225,7 +4225,7 @@
 			"answer": "https://www.ndtv.com/india-news/serum-institute-gets-nod-to-resume-oxford-covid-19-vaccine-trial-in-india-2296002",
 			"category": "",
 			"date": "September 16, 2020 at 08:35AM",
-			"image": "https://c.ndtvimg.com/2020-06/k5890kk8_covid19-vaccine-generic-reuters-650_625x300_10_June_20.jpg",
+			"image": "",
 			"question": "Serum Institute Gets Nod To Resume Oxford COVID-19 Vaccine Trial In India - NDTV"
 		},
 		{
@@ -5870,7 +5870,7 @@
 			"answer": "https://mb.com.ph/2020/09/21/ph-awaits-clinical-trial-protocol-for-sputnik-v-covid-19-vaccine-from-russia/",
 			"category": "",
 			"date": "September 21, 2020 at 03:35PM",
-			"image": "https://mb.com.ph/wp-content/uploads/2020/08/000_1WF5LF.jpg",
+			"image": "#REF!",
 			"question": "PH awaits clinical trial protocol for Sputnik V COVID-19 vaccine from Russia - Manila Bulletin"
 		},
 		{
@@ -6157,7 +6157,7 @@
 			"answer": "https://www.bloombergquint.com/coronavirus-outbreak/vaccine-likely-to-be-ready-for-india-next-year-scientist-says",
 			"category": "",
 			"date": "September 22, 2020 at 10:35AM",
-			"image": "https://gumlet.assettype.com/bloombergquint%2F2020-09%2Fce1b952c-1967-4ed8-b246-f96f1119a527%2F363901690.jpg?rect=0%2C474%2C3998%2C2099&w=1200&auto=format%2Ccompress&ogImage=true",
+			"image": "",
 			"question": "Vaccine Likely to Be Ready for India Next Year, Scientist Says - BloombergQuint"
 		},
 		{
@@ -7032,7 +7032,7 @@
 			"answer": "https://www.deccanchronicle.com/nation/crime/230920/india-records-major-decline-in-new-covid-cases-in-24hrs.html",
 			"category": "",
 			"date": "September 24, 2020 at 12:35AM",
-			"image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qov3og6mk8kemkfs6skifv2p20-20200923102819.Medi.jpeg",
+			"image": "",
 			"question": "India records major decline in new COVID cases in 24hrs - Deccan Chronicle"
 		},
 		{
@@ -7067,7 +7067,7 @@
 			"answer": "https://www.india.com/lifestyle/brucellosis-outbreak-read-why-india-needs-to-take-precautions-right-away-4147864/",
 			"category": "",
 			"date": "September 24, 2020 at 03:35AM",
-			"image": "",
+			"image": "https://www.india.com/wp-content/uploads/2020/06/pjimage-3-13.jpg",
 			"question": "Brucellosis Outbreak Read Why India Needs to Take Precautions Right Away - India.com"
 		},
 		{
@@ -7158,7 +7158,7 @@
 			"answer": "https://www.indiatoday.in/world/story/finland-deploys-coronavirus-sniffing-dogs-main-airport-1724785-2020-09-24",
 			"category": "",
 			"date": "September 24, 2020 at 09:35AM",
-			"image": "",
+			"image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/finland-647x363.jpeg?xmGz1wf7Srod3pq20yU9V5oWgEERdJ2n",
 			"question": "Finland deploys coronavirus-sniffing dogs at main airport - India Today"
 		},
 		{
@@ -7893,7 +7893,7 @@
 			"answer": "https://indianexpress.com/article/explained/september-26-india-coronavirus-numbers-explained-kerala-cases-6616580/",
 			"category": "",
 			"date": "September 26, 2020 at 05:35PM",
-			"image": "https://images.indianexpress.com/2020/09/Kerala-6.jpg",
+			"image": "",
 			"question": "India Covid-19 numbers explained Why Kerala might re-enter top 10 states soon - The Indian Express"
 		},
 		{
@@ -8033,7 +8033,7 @@
 			"answer": "https://www.indiatoday.in/world/story/finland-deploys-coronavirus-sniffing-dogs-main-airport-1724785-2020-09-24",
 			"category": "",
 			"date": "September 27, 2020 at 06:35AM",
-			"image": "",
+			"image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202009/finland-647x363.jpeg?xmGz1wf7Srod3pq20yU9V5oWgEERdJ2n",
 			"question": "Finland deploys coronavirus-sniffing dogs at main airport - India Today"
 		},
 		{
@@ -9482,7 +9482,7 @@
 			"answer": "https://indianexpress.com/article/cities/delhi/diminishing-antibodies-could-explain-delhis-sero-result-6655750/",
 			"category": "",
 			"date": "October 1, 2020 at 11:35AM",
-			"image": "",
+			"image": "https://images.indianexpress.com/2020/09/covid-15.jpg",
 			"question": "‘Diminishing antibodies’ could explain Delhi’s Sero result - The Indian Express"
 		},
 		{
@@ -9491,6 +9491,370 @@
 			"date": "October 1, 2020 at 11:35AM",
 			"image": "https://c.ndtvimg.com/2020-10/0oofgto_coronavirus-india-bloomberg_625x300_01_October_20.jpg",
 			"question": "Coronavirus Super-Spreaders Drove Explosive Outbreak In India, Says Study - NDTV"
+		},
+		{
+			"answer": "https://www.moneycontrol.com/news/india/coronavirus-india-news-live-updates-statewise-tally-delhi-pune-mumbai-oxford-coronavirus-vaccine-icmr-cdc-india-recovery-rate-lab-report-covid-19-schools-reopening-5908061.html",
+			"category": "",
+			"date": "October 1, 2020 at 12:35PM",
+			"image": "",
+			"question": "Coronavirus India News LIVE Updates Telangana’s COVID-19 tally at 1.9 lakh; Delhi’s third sero-survey... - Moneycontrol"
+		},
+		{
+			"answer": "https://www.ndtv.com/world-news/modernas-coronavirus-vaccine-wont-be-ready-before-us-elections-report-2303574",
+			"category": "",
+			"date": "October 1, 2020 at 12:35PM",
+			"image": "",
+			"question": "Moderna's Coronavirus Vaccine Won't Be Ready Before US Elections Report - NDTV"
+		},
+		{
+			"answer": "https://www.ndtv.com/india-news/air-bubbles-only-work-when-why-lufthansa-cancelled-flights-to-india-2303637",
+			"category": "",
+			"date": "October 1, 2020 at 12:35PM",
+			"image": "",
+			"question": "Air Bubbles Only Work When... Why Lufthansa Cancelled Flights To India - NDTV"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/markets/expert-view/we-are-learning-to-live-with-covid-india-on-verge-of-a-structural-bull-market/articleshow/78423163.cms",
+			"category": "",
+			"date": "October 1, 2020 at 02:35PM",
+			"image": "",
+			"question": "‘We are learning to live with Covid. India on verge of a structural bull market’ - Economic Times"
+		},
+		{
+			"answer": "https://indianexpress.com/article/cities/delhi/delhi-hc-asks-state-govt-why-are-you-wasting-testing-capacity-6655995/",
+			"category": "",
+			"date": "October 1, 2020 at 02:35PM",
+			"image": "",
+			"question": "Delhi HC asks state govt Why are you wasting testing capacity - The Indian Express"
+		},
+		{
+			"answer": "https://www.news18.com/news/india/huge-study-of-coronavirus-cases-in-india-offers-some-surprises-to-scientists-2923731.html",
+			"category": "",
+			"date": "October 1, 2020 at 03:35PM",
+			"image": "",
+			"question": "Huge Study of Coronavirus Cases in India Offers Some Surprises to Scientists - News18"
+		},
+		{
+			"answer": "https://www.ndtv.com/india-news/air-india-one-custom-made-for-president-pm-to-arrive-today-2303719",
+			"category": "",
+			"date": "October 1, 2020 at 03:35PM",
+			"image": "",
+			"question": "Air India One, Custom-Made For President, PM, To Arrive Later Today - NDTV"
+		},
+		{
+			"answer": "https://indianexpress.com/article/india/donald-trump-india-hiding-coronavirus-deaths-pm-modi-p-chidambaram-6663049/",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "Will Mr Modi hold another ‘Namaste Trump!’ Chidamabaram after US Prez’s remarks on Covid deaths in India - The Indian Express"
+		},
+		{
+			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-october-1-2020-live-updates/article32739407.ece",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "Coronavirus India lockdown Day 189 live updates | Oman 16th country to have air bubble arrangements with India - The Hindu"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-vaccine-why-are-companies-working-on-developing-nasal-vaccines-are-they-better-than-injected-ones/photostory/78423409.cms",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "Coronavirus vaccine Why are companies working on developing nasal vaccines Are they better than injected ones - Times of India"
+		},
+		{
+			"answer": "https://indianexpress.com/article/india/ahmed-patel-coronavirus-congress-rajya-sabha-mp-6663407/",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "CongressRajya Sabha MP Ahmed Patel tests positive for coronavirus - The Indian Express"
+		},
+		{
+			"answer": "https://www.cnbctv18.com/market/stock-market-live-sensex-nifty-markets-bse-nse-us-asia-coronavirus-sgx-nifty-gold-prices-oil-reliance-industries-auto-stocks-auto-humbers-hdfc-pvr-chemcon-specialty-listing-7072761.htm",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "Stock Market Highlights Sensex, Nifty end 1.5% higher led by financials, bank stocks; IndusInd Bank top gainer - CNBCTV18"
+		},
+		{
+			"answer": "https://www.news18.com/news/india/coronavirus-live-updates-modernas-covid-19-shot-wont-be-ready-by-us-elections-fda-widens-safety-inquiry-into-astrazenecas-vaccine-2923629.html",
+			"category": "",
+			"date": "October 1, 2020 at 04:35PM",
+			"image": "",
+			"question": "Coronavirus LIVE Updates Congress MP Ahmed Patel Tests Positive for Covid-19 - News18"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/news/newsblogs/latest-daily-news-and-updates-october1/liveblog/78417901.cms",
+			"category": "",
+			"date": "October 1, 2020 at 05:35PM",
+			"image": "",
+			"question": "Hathras Rape Case Live Updates Rahul Gandhi, Priyanka arrested while on way to Hathras - Economic Times"
+		},
+		{
+			"answer": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TzdjOTVESi1oWnfSAQA?oc=5",
+			"category": "",
+			"date": "October 1, 2020 at 05:35PM",
+			"image": "",
+			"question": "Moderna's COVID-19 vaccine appears safe | COVID-19 Pandemic - WION"
+		},
+		{
+			"answer": "https://www.livemint.com/science/health/scientists-identify-unique-patterns-in-coronavirus-transmission-in-india-11601526717122.html",
+			"category": "",
+			"date": "October 1, 2020 at 06:35PM",
+			"image": "",
+			"question": "Scientists identify unique patterns in coronavirus transmission in India - Mint"
+		},
+		{
+			"answer": "https://www.ndtv.com/india-news/full-refund-for-air-tickets-booked-amid-lockdown-what-supreme-court-said-2303741",
+			"category": "",
+			"date": "October 1, 2020 at 06:35PM",
+			"image": "",
+			"question": "Full Refund For Air Tickets Booked Amid Lockdown What Supreme Court Said - NDTV"
+		},
+		{
+			"answer": "https://www.ptcnews.tv/punjab-government-issues-unlock-5-guidelines-heres-whats-opened-whats-closed-en/",
+			"category": "",
+			"date": "October 1, 2020 at 06:35PM",
+			"image": "",
+			"question": "Punjab govt issues Unlock 5 guidelines; no night curfew, Sunday lockdown - PTC News"
+		},
+		{
+			"answer": "https://www.tribuneindia.com/news/punjab/night-curfew-sunday-lockdown-goes-in-punjab-as-covid-cases-deaths-decline-149446",
+			"category": "",
+			"date": "October 1, 2020 at 06:35PM",
+			"image": "",
+			"question": "Night curfew, Sunday lockdown goes in Punjab as Covid cases, deaths decline - The Tribune India"
+		},
+		{
+			"answer": "https://indianexpress.com/article/india/oman-16th-country-to-have-air-bubble-arrangements-with-india-6663552/",
+			"category": "",
+			"date": "October 1, 2020 at 08:35PM",
+			"image": "",
+			"question": "Oman 16th country to have air bubble arrangements with India - The Indian Express"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/india/custom-made-b777-plane-for-vvip-travel-arrives-in-india/articleshow/78426124.cms",
+			"category": "",
+			"date": "October 1, 2020 at 08:35PM",
+			"image": "",
+			"question": "Air India One Custom-made B777 plane for VVIP travel arrives in India - Times of India"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-525-points-top-factors-driving-the-market-higher/articleshow/78420524.cms",
+			"category": "",
+			"date": "October 1, 2020 at 08:35PM",
+			"image": "",
+			"question": "Five factors that drove the market rally today - Economic Times"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/city/delhi/delhis-covid-19-tally-breaches-2-82-lakh-mark-with-3037-fresh-cases-toll-at-5401/articleshow/78431383.cms",
+			"category": "",
+			"date": "October 1, 2020 at 08:35PM",
+			"image": "",
+			"question": "Delhi's Covid-19 tally breaches 2.82 lakh-mark with 3,037 fresh cases; toll at 5,401 - Times of India"
+		},
+		{
+			"answer": "https://www.india.com/news/india/unlock-5-punjab-orders-more-relaxations-lifts-night-curfew-sunday-lockdown-as-covid-cases-decline-4159083/",
+			"category": "",
+			"date": "October 1, 2020 at 09:35PM",
+			"image": "",
+			"question": "Unlock 5 Punjab Orders More Relaxations; Lifts Night Curfew, Sunday Lockdown as COVID Cases Decline - India.com"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/city/delhi/4-locations-on-citys-fringes-emerge-as-covid-19-hotspots/articleshow/78395855.cms",
+			"category": "",
+			"date": "October 1, 2020 at 07:35AM",
+			"image": "",
+			"question": "Four locations on Delhi’s fringes emerge as Covid-19 hotspots - Times of India"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/videos/city/delhi/covid-25-1-of-participants-developed-antibodies-in-delhi-according-to-serosurvey/videoshow/78431260.cms",
+			"category": "",
+			"date": "October 1, 2020 at 09:35PM",
+			"image": "",
+			"question": "COVID ‘25.1% of participants developed antibodies in Delhi according to serosurvey’ - Times of India"
+		},
+		{
+			"answer": "https://indianexpress.com/article/india/coronavirus-india-live-updates-covid-19-cases-deaths-recoveries-6629279/",
+			"category": "",
+			"date": "October 1, 2020 at 05:35AM",
+			"image": "https://images.indianexpress.com/2020/09/Pune-8.jpg",
+			"question": "Coronavirus Live Updates Bengal reports 3,281 new cases; 47 more deaths in Punjab - The Indian Express"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/city/delhi/covid-19-cinemas-swimming-pools-may-not-open-soon-in-delhi-as-govt-decides-to-maintain-status-quo/articleshow/78430841.cms",
+			"category": "",
+			"date": "October 1, 2020 at 09:35PM",
+			"image": "",
+			"question": "Unlock 5.0 Delhi maintains status quo, allows more weekly markets - Times of India"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/news/newsblogs/latest-daily-news-and-updates-september30/liveblog/78396608.cms",
+			"category": "",
+			"date": "October 1, 2020 at 05:35AM",
+			"image": "",
+			"question": "Coronavirus Latest News Maharashtra extends lockdown till 31st October - Economic Times"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-could-be-the-best-way-to-disinfect-and-reuse-n95-masks/photostory/78386961.cms",
+			"category": "",
+			"date": "October 1, 2020 at 11:35PM",
+			"image": "",
+			"question": "Coronavirus This could be the best way to disinfect and reuse N95 masks - Times of India"
+		},
+		{
+			"answer": "https://www.hindustantimes.com/india-news/travelling-to-dubai-why-dubai-has-put-additional-checks-on-indians/story-ctQbtq6ZDOTR3bzHOsYlSN.html",
+			"category": "",
+			"date": "October 1, 2020 at 11:35PM",
+			"image": "",
+			"question": "Travelling to Dubai Why Dubai has put additional checks on Indians - Hindustan Times"
+		},
+		{
+			"answer": "https://www.hindustantimes.com/india-news/india-s-covid-19-tally-crosses-6-3-million-mark-with-86-821-fresh-cases-1-181-fatalities/story-BZUId08zcZTtG4LKGcQVzJ.html",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "India’s Covid-19 tally crosses 6.3 million mark with 86,821 fresh cases, 1,181 fatalities - Hindustan Times"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-india-most-covid-19-cases-transmitted-by-super-spreaders-finds-study/articleshow/78430489.cms",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "Coronavirus India Most COVID-19 cases transmitted by super spreaders, finds study - Times of India"
+		},
+		{
+			"answer": "https://www.news18.com/news/buzz/low-testosterone-more-deaths-why-is-coronavirus-hitting-men-harder-than-women-2921753.html",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "Low Testosterone, More Deaths Why is Coronavirus Hitting Men Harder than Women - News18"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/india/coronavirus-india-live-updates-mha-issues-unlock-5-guidelines/liveblog/78417729.cms",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "Coronavirus live updates Second Russian virus vaccine passes early trials, reports says - Times of India"
+		},
+		{
+			"answer": "https://www.nyoooz.com/news/delhi/1516314/delhi-bjp-chief-alleges-govt-fudging-covid-data/",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "Delhi BJP chief alleges govt fudging Covid data | Delhi NYOOOZ - NYOOOZ"
+		},
+		{
+			"answer": "https://indianexpress.com/article/india/covid-19-spread-new-study-6663828/",
+			"category": "",
+			"date": "October 2, 2020 at 02:35AM",
+			"image": "",
+			"question": "New study claims only small set of people spreading Covid-19 - The Indian Express"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/news/economy/indicators/indias-factory-activity-grew-at-fastest-pace-in-over-eight-years-in-september/articleshow/78420640.cms",
+			"category": "",
+			"date": "October 2, 2020 at 03:35AM",
+			"image": "",
+			"question": "India's factory activity grew at fastest pace in over eight years in September PMI - Economic Times"
+		},
+		{
+			"answer": "https://www.ndtv.com/india-news/scientists-identify-unique-patterns-in-covid-19-transmission-in-india-2303823",
+			"category": "",
+			"date": "October 2, 2020 at 06:35AM",
+			"image": "",
+			"question": "Scientists Identify Unique Patterns In COVID-19 Transmission In India - NDTV"
+		},
+		{
+			"answer": "https://indianexpress.com/article/business/economy/from-pm-economic-council-to-niti-aayog-growing-disquiet-over-govt-tight-fist-6664069/",
+			"category": "",
+			"date": "October 2, 2020 at 07:35AM",
+			"image": "",
+			"question": "From PM economic council to Niti Aayog, growing disquiet over Govt tight fist - The Indian Express"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/city/delhi/with-3037-new-cases-delhis-covid-tally-crosses-2-8l/articleshow/78435991.cms",
+			"category": "",
+			"date": "October 2, 2020 at 07:35AM",
+			"image": "",
+			"question": "With 3,037 new cases, Delhi’s Covid tally crosses 2.8 lakh - Times of India"
+		},
+		{
+			"answer": "https://www.aljazeera.com/news/2020/9/30/more-than-60-million-indians-may-have-caught-coronavirus-study",
+			"category": "",
+			"date": "October 1, 2020 at 09:36AM",
+			"image": "",
+			"question": "More than 60 million Indians may have caught coronavirus Study - Al Jazeera English"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/india/make-full-refund-of-air-tickets-within-3-weeks-sc-to-airlines/articleshow/78438999.cms",
+			"category": "",
+			"date": "October 2, 2020 at 08:35AM",
+			"image": "",
+			"question": "Make full refund of air tickets within 3 weeks SC to airlines - Times of India"
+		},
+		{
+			"answer": "https://www.thehindu.com/news/national/coronavirus-india-lockdown-september-30-2020-live-updates/article32728316.ece",
+			"category": "",
+			"date": "October 1, 2020 at 11:35AM",
+			"image": "",
+			"question": "Coronavirus India lockdown Day 188 updates | September 30, 2020 - The Hindu"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/india/how-to-store-take-vaccine-to-masses-states-asked-to-plan/articleshow/78439049.cms",
+			"category": "",
+			"date": "October 2, 2020 at 08:35AM",
+			"image": "",
+			"question": "How to store & take vaccine to masses States asked to plan - Times of India"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/jobs/jobs-market-migrating-to-smaller-cities/articleshow/78438625.cms",
+			"category": "",
+			"date": "October 2, 2020 at 08:35AM",
+			"image": "",
+			"question": "Covid-19 Effect Jobs market in India migrating to smaller cities - Economic Times"
+		},
+		{
+			"answer": "https://economictimes.indiatimes.com/news/international/business/saudi-arabias-economy-shrank-by-7-in-q2-showing-depth-of-coronavirus-hit/articleshow/78401037.cms",
+			"category": "",
+			"date": "October 1, 2020 at 12:35PM",
+			"image": "",
+			"question": "Saudi Arabia's economy shrank by 7% in Q2 showing depth of coronavirus hit - Economic Times"
+		},
+		{
+			"answer": "https://www.hindustantimes.com/india-news/from-driving-license-to-health-insurance-five-new-rules-from-october-1/story-mpPBSxFrxgQqTZU84y0H4N.html",
+			"category": "",
+			"date": "October 2, 2020 at 08:35AM",
+			"image": "",
+			"question": "From driving license to health insurance, five new rules from October 1 - Hindustan Times"
+		},
+		{
+			"answer": "https://www.hindustantimes.com/india-news/covid-19-what-you-need-to-know-today/story-TaexGwXb8o41S1iocQdYgM.html",
+			"category": "",
+			"date": "October 2, 2020 at 08:35AM",
+			"image": "",
+			"question": "Covid-19 What you need to know today - Hindustan Times"
+		},
+		{
+			"answer": "https://timesofindia.indiatimes.com/world/us/top-trump-aide-hope-hicks-tests-positive-for-coronavirus/articleshow/78439593.cms",
+			"category": "",
+			"date": "October 2, 2020 at 09:35AM",
+			"image": "",
+			"question": "Top Trump aide Hope Hicks tests positive for coronavirus - Times of India"
+		},
+		{
+			"answer": "https://www.timesnownews.com/business-economy/markets/article/golden-years-of-india-are-ahead-rakesh-jhunjhunwala/660622",
+			"category": "",
+			"date": "October 2, 2020 at 09:35AM",
+			"image": "",
+			"question": "Golden years of India are ahead Rakesh Jhunjhunwala - Times Now"
+		},
+		{
+			"answer": "https://www.ndtv.com/world-news/amazon-says-nearly-20-000-of-its-employees-tested-positive-for-covid-19-2304130",
+			"category": "",
+			"date": "October 2, 2020 at 10:35AM",
+			"image": "",
+			"question": "Amazon Says Nearly 20,000 Of Its Employees Tested Positive For COVID-19 - NDTV"
 		}
 	]
 }
