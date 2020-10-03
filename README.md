@@ -4,6 +4,22 @@
 
 [SKY SPORTS CRICKET HD UK 👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/129)
 
+[👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/784)
+
+[👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/11)
+
+[👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/136)
+
+[👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/131428)
+
+[👋🚀🚀👋 ](http://flussonic.finetv.xyz/auth?channel=StarSports1English&authorization=b12eb0ec0130e987278877128ea42934&server=1)
+
+[👋🚀🚀👋 ](http://flussonic.finetv.xyz/auth?channel=StarSports1Hindi&authorization=b12eb0ec0130e987278877128ea42934&server=1)
+
+[👋🚀🚀👋 ](http://flussonic.finetv.xyz/auth?channel=Bein13&authorization=b12eb0ec0130e987278877128ea42934&server=1)
+
+[👋🚀🚀👋 ](http://magco.rip:8000/41687585354413/41787452632984/85511)
+
 [SKY SPORTS CRICKET SD UK 👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/136)
 
 [Star Sports 1](http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8)👋 👋
