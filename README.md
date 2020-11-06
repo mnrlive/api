@@ -45,18 +45,18 @@
 👋👋 [STAR SPORTS HINDI 640x360 ](http://66.northerniptv.ca:8000/golden123/golden123/202)
 
 
-[CNBC TV18]		(https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8)			
+[CNBC TV18](https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8)			
 					
-[Times Now HD]		(https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8		)	
-[	1	](http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8			
-[CNBC Awaaz]		(https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8	)		
+[Times Now HD](https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8)	
+[	1	](http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8)			
+[CNBC Awaaz](https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8)		
 					
-[CNBC Bajar	]	(https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8	)		
+[CNBC Bajar	](https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8)		
 					
-[DD News]		(https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8)			
+[DD News](https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8)			
 					
-[ET Now	]	(https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8		)	
-	[1]	(https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8	)		
+[ET Now	](https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8)	
+	[1](https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8)		
 
 
 
