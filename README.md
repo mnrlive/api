@@ -6,7 +6,7 @@
 
 [Sony BBC](http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/652)
 
-[👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/11)
+[👋🚀🚀👋🚀🚀 ](https://raw.githubusercontent.com/avinashcs2138/CustomPlaylists/main/My_TEL.m3u)
 
 [👋🚀🚀👋 ](http://mlsh1.com:2086/iptvreal/55225/136)
 
